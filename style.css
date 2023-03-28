@@ -61,3 +61,10 @@
     margin-left: 1em;
     cursor: pointer;
 }
+
+.restart {
+    background-color: #498AFB;
+}
+#reset {
+    background-color: #FF36860;
+}
